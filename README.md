@@ -22,5 +22,7 @@ Additionally, I am keenly interested in the field of machine learning.
 
 **✏️ Languges:**   
 
+            <i class="devicon-c-plain colored"></i>
+          
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
           
