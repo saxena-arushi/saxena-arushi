@@ -28,7 +28,11 @@ Additionally, I am keenly interested in the field of machine learning.
 <p align="left"> 
           <a href="https://www.cprogramming.com/" target="_blank"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" width="38"/>
-          </a> 
+          </a>
+          
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" width="38" />
+          
           
 <!--           <a href="https://www.w3schools.com/cpp/" target="_blank">        
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
