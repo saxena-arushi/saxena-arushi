@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center>I am a third-year student pursuing a Bachelor's degree in Information Technology.  
+I am a third-year student pursuing a Bachelor's degree in Information Technology.  
 Currently, I am studying Data Structures and Algorithms, as well as learning web development using Django. 
-Additionally, I am keenly interested in the field of machine learning.</center>
+Additionally, I am keenly interested in the field of machine learning.  
+
+
 **✏️ Languges:**
+<i class="fab fa-python"></i> Python
+
 
 
