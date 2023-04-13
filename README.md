@@ -20,7 +20,7 @@ Currently, I am studying Data Structures and Algorithms, as well as learning web
 Additionally, I am keenly interested in the field of machine learning.  
 
 
-<h2>**✏️ Languages:**   </h2>
+<h3>✏️ Languages:**   </h3>
 
           
           
