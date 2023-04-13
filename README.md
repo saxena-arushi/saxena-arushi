@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a third-year student pursuing a Bachelor's degree in Information Technology. 
+I am a third-year student pursuing a Bachelor's degree in Information Technology.  
 My current focus is on studying Data Structures and Algorithms. Additionally, I am also learning web development using Django and striving to improve my understanding of the subject.
