@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Arushi Saxena.
+### <center>Hi! 👋 I'm Arushi Saxena.</center>
 
 <!--
 **saxena-arushi/saxena-arushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
