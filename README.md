@@ -20,6 +20,9 @@ Currently, I am studying Data Structures and Algorithms, as well as learning web
 Additionally, I am keenly interested in the field of machine learning.  
 
 
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+
 <h3>✏️ Languages:   </h3>
 
 <p align="left"> 
