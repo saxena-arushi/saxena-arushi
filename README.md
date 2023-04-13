@@ -20,17 +20,17 @@ Currently, I am studying Data Structures and Algorithms, as well as learning web
 Additionally, I am keenly interested in the field of machine learning.  
 
 
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<!--             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> -->
           
 
 <h3>✏️ Languages:   </h3>
 
 <p align="left"> 
           <a href="https://www.cprogramming.com/" target="_blank"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40"/>
           </a> 
           
-          <a href="https://www.w3schools.com/cpp/" target="_blank">        
+<!--           <a href="https://www.w3schools.com/cpp/" target="_blank">        
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
           </a> 
           
@@ -50,7 +50,7 @@ Additionally, I am keenly interested in the field of machine learning.
            
           <a href="https://www.python.org" target="_blank"> 
                     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-          </a> 
+          </a>  -->
 </p>
 
           
