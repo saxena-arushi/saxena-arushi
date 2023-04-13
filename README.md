@@ -1,4 +1,4 @@
-### <center>Hi! 👋 I'm Arushi Saxena.</center>
+### Hi! 👋 I'm Arushi Saxena.
 
 <!--
 **saxena-arushi/saxena-arushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a third-year student pursuing a Bachelor's degree in Information Technology.  
-My current focus is on studying Data Structures and Algorithms. Additionally, I am also learning web development using Django and striving to improve my understanding of the subject.
+<center>I am a third-year student pursuing a Bachelor's degree in Information Technology.  
+Currently, I am studying Data Structures and Algorithms, as well as learning web development using Django. 
+Additionally, I am keenly interested in the field of machine learning.</center>
+**✏️ Languges:**
+
+
